@@ -139,8 +139,8 @@ export async function tictactoe(
 					options.embed?.credit === false
 						? options.embed?.footer
 						: {
-								text: '©️ Simply Develop. npm i simply-djs',
-								iconURL: 'https://i.imgur.com/u8VlLom.png'
+								text: 'Makima Bot',
+								iconURL: 'https://cdn.discordapp.com/attachments/1080442798236504064/1083839895606399086/IMG_0632.jpg'
 						  }
 				);
 
